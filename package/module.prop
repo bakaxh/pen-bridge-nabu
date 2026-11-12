@@ -1,0 +1,6 @@
+id=dell_pen_bridge_nabu
+name=Third-party Pen Buttons for Pad 5 (nabu)
+version=0.3.0
+versionCode=3
+author=Dell Pen Bridge contributors
+description=第三方 MPP 触控笔（联想 Precision Pen 2）双侧键桥接至 Notein。直读 /dev/input/event4（已修复内核上报 BTN_STYLUS/BTN_STYLUS2），独立映射：笔键1→KEY_PAGEDOWN、笔键2→KEY_PAGEUP，经实测有效的 Xiaomi Smart Pen Keyboard 虚拟设备注入；无需标定，无 eBPF；动作按钮可暂停/恢复。

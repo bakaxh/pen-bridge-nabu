@@ -1,0 +1,111 @@
+{
+  "artifact": "Pen-Bridge-nabu-Root-v0.3.0.zip",
+  "sha256": "ac3f034d457dc92520ce46897b4452b6d3be432242d39edab66408a64e6cec02",
+  "native_sha256": "c9398b00875df5087d7127b50b47ab8952fe8dbd4d4fb7ac81de739c5baf9b69",
+  "mode": "compile-and-package",
+  "compiler_version": "0.17.1",
+  "files": [
+    {
+      "path": "LICENSE",
+      "size": 1085,
+      "mode": "0o100644",
+      "sha256": "4f046a832f90bf907928058c5a888839c788c1446fec0d2e7f29f28df5679228"
+    },
+    {
+      "path": "LICENSES/Zig-MIT.txt",
+      "size": 1080,
+      "mode": "0o100644",
+      "sha256": "5c537d6853e005298a285d508cff9ac7192cea23576c840d485b2b586a7ff177"
+    },
+    {
+      "path": "LICENSES/musl-COPYRIGHT.txt",
+      "size": 6204,
+      "mode": "0o100644",
+      "sha256": "f9bc4423732350eb0b3f7ed7e91d530298476f8fec0c6c427a1c04ade22655af"
+    },
+    {
+      "path": "LICENSES/musl-SOURCE-NOTICES.txt",
+      "size": 32499,
+      "mode": "0o100644",
+      "sha256": "25712aced37c164b828553331fb39b280fde92c9fffd0793ae877b6234eaf153"
+    },
+    {
+      "path": "README.md",
+      "size": 3206,
+      "mode": "0o100644",
+      "sha256": "04ada361fdba935490a303f39765125a151adb7b2b64751138600da14d42d202"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "size": 1388,
+      "mode": "0o100644",
+      "sha256": "a494ee400a017680cc3cadfbee6d4b1a4a6bc58b442fedfeaafc0092e6d6c5ff"
+    },
+    {
+      "path": "action.sh",
+      "size": 98,
+      "mode": "0o100755",
+      "sha256": "a0b59c940b7f6f7230611db08d9b7847ffbcba6616c45a8ed2568190a7625777"
+    },
+    {
+      "path": "bin/check.sh",
+      "size": 947,
+      "mode": "0o100755",
+      "sha256": "41859e498d5313e3122add8366efa8ece702e82ec331bb61467665cf0a4fd1bd"
+    },
+    {
+      "path": "bin/control.sh",
+      "size": 7797,
+      "mode": "0o100755",
+      "sha256": "e859178d56f740c6d43f6f90e43993ad03e3a8fed4d686347e33bfb5f3faa41a"
+    },
+    {
+      "path": "bin/dell-pen-bridge",
+      "size": 1511568,
+      "mode": "0o100755",
+      "sha256": "c9398b00875df5087d7127b50b47ab8952fe8dbd4d4fb7ac81de739c5baf9b69"
+    },
+    {
+      "path": "bin/dell-pen-bridge.sha256",
+      "size": 65,
+      "mode": "0o100644",
+      "sha256": "615ae2f2457518930674e5ebb61752236b1ef58f3d0b110b75926f2ffd71d9d6"
+    },
+    {
+      "path": "customize.sh",
+      "size": 1751,
+      "mode": "0o100755",
+      "sha256": "fc2b5852f3ba198ea6178042af0cfb0951376f2b7b548c71de7295f0394b9397"
+    },
+    {
+      "path": "module.prop",
+      "size": 489,
+      "mode": "0o100644",
+      "sha256": "87a11ee7ccbdf11a59a8a7c7f5b15eb518d0e40903f658159ea2f62d79a3e698"
+    },
+    {
+      "path": "service.sh",
+      "size": 96,
+      "mode": "0o100755",
+      "sha256": "47b0c4f9f54bc720c68f111fa67a29aebd97c36b40f22b5e35f3bed56e77483b"
+    },
+    {
+      "path": "skip_mount",
+      "size": 0,
+      "mode": "0o100644",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "src/dell_pen_bridge.c",
+      "size": 26806,
+      "mode": "0o100644",
+      "sha256": "fa72846ad09d3e7e130c3f0a51d4d58c4003c711af830316457b365f9d234050"
+    },
+    {
+      "path": "uninstall.sh",
+      "size": 170,
+      "mode": "0o100755",
+      "sha256": "d50e442e572d78d834fbcb7315956053e05b0ba3d74f0fcc6db4424ab00082a8"
+    }
+  ]
+}
